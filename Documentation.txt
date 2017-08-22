@@ -1,0 +1,18 @@
+In this project, the following points have been taken into consideration for the logic:
+
+1) "Buzz" is displayed when the F(n) is only divisible by 3.
+
+2) "Fizz" is displayed when the F(n) is only divisible by 5.
+
+3) Now due to lack of clarity in the problem statement, "Buzz" "Fizz" and "FizzBuzz" all three is being 
+displayed when F(n) is divisible by 15, as we know that a number which is divisible by 15 must be divisible 
+by both 3 and 5.
+
+4) A number is checked for prime number if the above condition failed displaying "BuzzFizz"
+
+5) All the above condition diaplays the F(n)
+
+6) Also the sequence have been displayed from 0 till F(n) for better claririty.
+
+7) All test cases have been considered and found to be correct.
+ 
